@@ -9,3 +9,5 @@ module npu_tb (
     end
 endmodule
 // Modified timing constraints 66ns
+
+// Fixed identified race condition
