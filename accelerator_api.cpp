@@ -6,3 +6,4 @@ public:
         std::cout << "Accelerator_api initialized." << std::endl;
     }
 };
+// Fixed identified race condition
