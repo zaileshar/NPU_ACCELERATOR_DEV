@@ -9,3 +9,5 @@ module timer_counter (
     end
 endmodule
 // Updated logic section 27
+
+// Memory layout adjusted for cache hit rate
